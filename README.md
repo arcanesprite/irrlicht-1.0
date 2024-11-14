@@ -73,10 +73,4 @@
 # Pour yourself another and lets begin this journey into the dungeons!!!! 
   
  ---
-                             
-  __ _  ___  _ __ ___  _   _ 
- / _` |/ _ \| '_ ` _ \| | | |
-| (_| | (_) | | | | | | |_| |
- \__, |\___/|_| |_| |_|\__,_|
-  __/ |                      
- |___/                     
+                                               
