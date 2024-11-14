@@ -2,7 +2,7 @@
 
 ---
 
-### In this ReadMe we will go over how to run Irrlicht in Visual Studio Code.
+### In this ReadMe we will go over how to run Irrlicht in Visual Studio.
 
 ### Start the following playlist: https://www.youtube.com/watch?v=KTNloEvRsfw
 
