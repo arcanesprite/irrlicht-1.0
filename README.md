@@ -4,6 +4,8 @@
 
 ### In this ReadMe we will go over how to run Irrlicht in Visual Studio Code.
 
+### Start the following playlist: https://www.youtube.com/watch?v=KTNloEvRsfw
+
 ### Pour yourself a fine brew, get comfy, and lets get started! 
 
 ---
@@ -14,7 +16,7 @@
 
 ### Once installed you can open the Irrlicht folder in Visual Studio.
 
-### You can ignore CMakeList.txt popup when first opening the project.
+### You can ignore CMakeList.txt popup when first opening the project by selecting "Do not enable".
 
 <br/>
 <img src="/img/CMake.png" alt="irrlicht">
